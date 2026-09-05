@@ -1,0 +1,25 @@
+BUG DANCE LITE by JXD VibeLabs
+Freeware License
+
+Copyright (c) Jiri X. Dolezal / JXD VibeLabs
+
+1. This software is provided FREE OF CHARGE ("freeware") for
+   personal and non-commercial use. You may install, use and
+   distribute unmodified copies of it at no cost.
+
+2. You may NOT sell, rent, lease or charge for this software.
+   You may NOT modify, reverse engineer or repackage it and
+   claim it as your own.
+
+3. Bug photographs are © Jaroslav M. Soukup and are used with
+   permission. They may not be extracted and reused separately
+   without the photographer's consent.
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+   FROM THE USE OF THIS SOFTWARE.
+
+5. By installing or using this software you accept this license.
+
+Contact: jxd@jxd.cz | https://jxd.cz/
