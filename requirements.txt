@@ -1,2 +1,9 @@
+# Install ONE of the two Qt bindings (PyQt6 is default):
 PyQt6>=6.5.0
-pyinstaller>=6.0.0
+# PySide6>=6.5.0   # ← uncomment this and comment PyQt6 if you prefer PySide6
+
+# Optional — only needed when building a standalone executable:
+# pyinstaller>=6.0.0
+
+# Optional — macOS only: suppresses the Dock icon (makes it tray-only):
+# pyobjc-framework-Cocoa>=10.0   # macOS only
